@@ -9,6 +9,8 @@ public class Q01 {
 		s = b;
 		c = (char)b;
 		s = (short)c;
+		f = (float)5.11;
 		f = 5.11f;
+		System.out.println(f);
 	}
 }

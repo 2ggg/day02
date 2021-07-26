@@ -18,7 +18,7 @@ public class Ex01 {
 	 short : 2byte(음수 양수 표현)
 	 int : 4byte(음수 양수 표현)
 	 - 실수
-	 float : 4byte
+	 float : 4byte (값 뒤에 f 붙여야 함)
 	 double : 8byte
 	 - 문자
 	 byte : 1byte(음수/양수)
